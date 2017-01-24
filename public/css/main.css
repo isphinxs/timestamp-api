@@ -1,0 +1,24 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    display: inline-block;
+    margin-left: 10%;
+    max-width: 80%;
+    background-color: #f7f7f7;
+}
+h1, h3 {
+    color: blue;
+}
+p {
+    color: #1a237e;
+    margin-left: 2%;
+    max-width: 80%;
+}
+code {
+    background-color: white;
+}
+i {
+    color: blue;
+}
+ul {
+    list-style: none;
+}
