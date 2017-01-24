@@ -4,11 +4,10 @@ var express = require("express"),
 var app = express();
 var port = process.env.PORT || 8080;
 
-app.listen(port);
 app.use('/public', express.static(process.cwd() + '/public'));
 
 routes(app);
 
 app.listen(port, function () {
-    console.log("Listening on port" + port + "...");
+    console.log("Listening on port " + port + "...");
 });
