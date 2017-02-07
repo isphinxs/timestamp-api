@@ -14,3 +14,7 @@ Launch with node using <code>node server.js</code>.
 ## Sample Output
 
     { "unix": 1450137600, "natural": "December 15, 2015" }
+
+## Live Example
+    
+    https://obscure-sierra-15573.herokuapp.com
